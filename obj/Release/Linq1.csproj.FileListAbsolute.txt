@@ -1,0 +1,6 @@
+D:\Web Developement\Visual Studio\C#\Linq1\Linq1\bin\Release\Linq1.exe.config
+D:\Web Developement\Visual Studio\C#\Linq1\Linq1\bin\Release\Linq1.exe
+D:\Web Developement\Visual Studio\C#\Linq1\Linq1\bin\Release\Linq1.pdb
+D:\Web Developement\Visual Studio\C#\Linq1\Linq1\obj\Release\Linq1.csproj.CoreCompileInputs.cache
+D:\Web Developement\Visual Studio\C#\Linq1\Linq1\obj\Release\Linq1.exe
+D:\Web Developement\Visual Studio\C#\Linq1\Linq1\obj\Release\Linq1.pdb
